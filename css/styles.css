@@ -1,0 +1,117 @@
+#title{
+    background-color: #ff4c68;
+    color:#fff;
+    text-align: lwft;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black;
+}
+
+.container-fluid{
+    padding-top: 3%;
+    padding-left: 15%;
+    padding-right:15%;
+}
+
+.navbar-brand{
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    
+}
+
+.rotated{
+    width:70%;
+    margin-bottom:20px;
+    margin-top:20px;
+    
+    transform: rotate(15deg);
+
+    
+}
+
+#features{
+    padding-top: 7%;
+    padding-bottom: 7%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.feature-box{
+    text-align: center;
+}
+
+p{
+    color:#8f8f8f;
+}
+
+.icon{
+    color:#ef8172;
+    margin-bottom: 0rem;
+}
+
+.icon:hover{
+    color:#ff4c68;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align:center;
+    background-color: #ef8172;
+    color:#fff;
+
+}
+.testimonial-image{
+    width:15%;
+    border-radius:100%;
+}
+
+#press{
+    background-color:#ef8172;
+    text-align:center;
+    padding-bottom:40px;;
+}
+
+.press-logo{
+    width:15%;
+    margin-left:20px;
+    margin-right:20px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+/*Pricing Section*/
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+    margin-bottom:40px;
+}
+
+.price-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.white-section{
+    text-align: center;
+}
+/*Call to Action Section*/
+
+#cta{
+    background-color:#ff4c68;;
+    padding:7% 15%;
+}
